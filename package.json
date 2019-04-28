@@ -1,0 +1,22 @@
+{
+  "name": "nextjs",
+  "version": "3.0.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "latest",
+    "jss": "latest",
+    "next": "latest",
+    "processmd": "^4.4.0",
+    "prop-types": "latest",
+    "raw-loader": "^2.0.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-jss": "^8.1.0"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
